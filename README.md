@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhsanRaza059
 - 👀 I’m interested in MERN STACK
-- 🌱 I’m currently learning in COMSATS University Islamabad
+- 🌱 I’m currently studying in COMSATS University Islamabad
 - 📫 How to reach me .. You can mail me at ahsanraza00059@gmail.com
 
 <!---
