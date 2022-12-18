@@ -15,7 +15,7 @@
 - 🥅 2023 Goals: Learn more about MERN Stack
 - ⚡ Fun fact: I love blogging, coding, reading books, and googling
 - 💀 Check out the NFT collection I created: [Fancy Skull Boys](https://opensea.io/collection/fancyskullboys?search[sortAscending]=true&search[sortBy]=PRICE)
-
+<!--
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://ahsanraza059.github.io#gh-light-mode-only)
@@ -30,7 +30,7 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/iamahsanraza#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/iamahsanraza#gh-dark-mode-only)
 
-<!--
+
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
