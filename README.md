@@ -15,17 +15,17 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://ahsanraza059.github.io#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://ahsanraza059.github.io#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://ahsanraza059.github.io)
+[![website](./img/globe-dark.svg)](https://ahsanraza059.github.io)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCthxlb0WpObljI173N-QbfA?sub_confirmation=1#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCthxlb0WpObljI173N-QbfA?sub_confirmation=1#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCthxlb0WpObljI173N-QbfA?sub_confirmation=1)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCthxlb0WpObljI173N-QbfA?sub_confirmation=1)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/AhsanRaza059#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/AhsanRaza059#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/AhsanRaza059)
+[![website](./img/twitter-dark.svg)](https://twitter.com/AhsanRaza059)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/iamahsanraza#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/iamahsanraza#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/iamahsanraza)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/iamahsanraza)
 
 ### Languages and Tools:
 
