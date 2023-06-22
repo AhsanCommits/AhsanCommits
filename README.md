@@ -6,12 +6,12 @@
 
 ## I'm a Friend, Developer, and Mentor!!
 
-- 🔭 I am currently working as a Front End Developer at [Internshala!][internshala]!
+- 🔭 I am currently working as a [Internshala!][internshala] Student Partner!
 - 🌱 I’m currently learning MERN Stack 👨🏻‍💻
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more to Open Source Projects
 - ⚡ Fun fact: I love blogging, coding, reading books, and googling
-- 💀 Check out the NFT collection I created: [Fancy Skull Boys](https://opensea.io/collection/fancyskullboys?search[sortAscending]=true&search[sortBy]=PRICE)
+- 💀 Check out the NFT collection I created: [Fancy Skull Boys](https://opensea.io/collection/fancyskullboys)
 
 ### Connect with me:
 
