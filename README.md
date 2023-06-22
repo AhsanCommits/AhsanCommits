@@ -15,9 +15,7 @@
 
 ### Connect with me:
 
-<!-- [![website](./img/globe-light.svg)](https://ahsanraza059.github.io) -->
-
-[![website](./img/globe-dark.svg)](https://ahsanraza059.github.io)
+[![website](./img/globe-dark.svg)](https://ahsancommits.github.io)
 &nbsp;&nbsp;
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCthxlb0WpObljI173N-QbfA?sub_confirmation=1)
 &nbsp;&nbsp;
@@ -68,7 +66,7 @@
 
 </details>
 
-[website]: https://ahsancommits.github.io/
+[website]: https://ahsancommits.github.io
 [twitter]: https://twitter.com/AhsanRaza059
 [instagram]: https://www.instagram.com/ahsancommits
 [linkedin]: https://www.linkedin.com/in/iamahsanraza
