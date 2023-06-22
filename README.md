@@ -54,12 +54,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
-- [Step-by-Step Guide to JSDoc and TypeScript in Modern JavaScript Projects in 15 Minutes!](https://www.youtube.com/watch?v=oH_-6TyxVhI)
-- [🤔 Should I use TypeScript, JSDoc, or Both?](https://www.youtube.com/watch?v=JTYhDiJiiFI)
-- [The Future of JavaScript &amp; AI in Tech - Evan You at VueJSLive](https://www.youtube.com/watch?v=TwjUuivIrPI)
-- [Don&#39;t Miss VueJS Live - Register Now!](https://www.youtube.com/watch?v=zTCpVNRMpEw)
-- [🛑 Stop Creating Folder Structures the Hard Way in VS Code!](https://www.youtube.com/watch?v=_XbEX5kuATY)
+- [JavaScript Tutorial for Beginners: Day 10 -- Dad Jokes](https://www.youtube.com/watch?v=q4wTFvDynGo)
+- [JavaScript Tutorial for Beginners #9 -- Sound Board](https://www.youtube.com/watch?v=-631l3aSQLs)
+- [JavaScript Tutorial for Beginners #8 -- Form Wave Animation](https://www.youtube.com/watch?v=0Ocysvy8Nwc)
+- [JavaScript Tutorial for Beginners: How To Create A Scroll Animation #Shorts](https://www.youtube.com/watch?v=76YeWtCHRm4)
+- [JavaScript Tutorial for Beginners: How to Create a Split Landing Page #Shorts](https://www.youtube.com/watch?v=PK-uozqB6ZA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
