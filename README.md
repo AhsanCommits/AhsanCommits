@@ -61,7 +61,6 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Best Practices for MERN Stack Development](https://medium.com/@ahsanraza00059/best-practices-for-mern-stack-development-32b0dffc3e66?source=rss-164c58efef7e------2)
 - [10 Reasons Why MongoDB is the Best NoSQL Database](https://medium.com/@ahsanraza00059/10-reasons-why-mongodb-is-the-best-nosql-database-17ad10e4319f?source=rss-164c58efef7e------2)
 <!-- BLOG-POST-LIST:END -->
