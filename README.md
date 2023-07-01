@@ -2,7 +2,7 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCthxlb0WpObljI173N-QbfA?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=ahsancommits.github.io&style=for-the-badge&url=https%3A%2F%2Fahsancommits.github.io)](https://ahsancommits.github.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/AhsanRaza059?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAhsanRaza059&screen_name=AhsanRaza059)
+[![Twitter Follow](https://img.shields.io/twitter/follow/AhsanCommits?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAhsanCommits&screen_name=AhsanCommits)
 
 ## I'm a Friend, Developer, and Mentor!
 
