@@ -19,9 +19,9 @@
 &nbsp;&nbsp;
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCthxlb0WpObljI173N-QbfA?sub_confirmation=1)
 &nbsp;&nbsp;
-[![website](./img/twitter-dark.svg)](https://twitter.com/AhsanRaza059)
+[![website](./img/twitter-dark.svg)](https://twitter.com/ahsancommits)
 &nbsp;&nbsp;
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/iamahsanraza)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ahsancommits)
 &nbsp;&nbsp;
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/ahsancommits)
 &nbsp;&nbsp;
@@ -71,9 +71,9 @@
 <img align="left" alt="ahsancommits' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ahsancommits&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 [website]: https://ahsancommits.github.io
-[twitter]: https://twitter.com/AhsanRaza059
+[twitter]: https://twitter.com/ahsancommits
 [instagram]: https://www.instagram.com/ahsancommits
-[linkedin]: https://www.linkedin.com/in/iamahsanraza
+[linkedin]: https://www.linkedin.com/in/ahsancommits
 [jsplaylist]: https://www.youtube.com/playlist?list=PLYshsQG2r6mQXxD0DUAaWkT_FrV7PSIGw
 [internshala]: https://internshala.com
 [youtube]: https://www.youtube.com/channel/UCthxlb0WpObljI173N-QbfA?sub_confirmation=1
