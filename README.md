@@ -60,8 +60,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Practices for MERN Stack Development](https://medium.com/@ahsanraza00059/best-practices-for-mern-stack-development-32b0dffc3e66?source=rss-164c58efef7e------2)
-- [10 Reasons Why MongoDB is the Best NoSQL Database](https://medium.com/@ahsanraza00059/10-reasons-why-mongodb-is-the-best-nosql-database-17ad10e4319f?source=rss-164c58efef7e------2)
+- [Introduction to React JS: A Beginner’s Guide](https://medium.com/@ahsancommits/introduction-to-react-js-a-beginners-guide-b6e658f6cbee?source=rss-164c58efef7e------2)
+- [Best Practices for MERN Stack Development](https://medium.com/@ahsancommits/best-practices-for-mern-stack-development-32b0dffc3e66?source=rss-164c58efef7e------2)
+- [10 Reasons Why MongoDB is the Best NoSQL Database](https://medium.com/@ahsancommits/10-reasons-why-mongodb-is-the-best-nosql-database-17ad10e4319f?source=rss-164c58efef7e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.linkedin.com/newsletters/7048174900578066432/)
