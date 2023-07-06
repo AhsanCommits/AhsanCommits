@@ -46,11 +46,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [FARMING SIMULATOR 22 👑 FREE DOWNLOAD 👑 FULL GAME PC CRACK 👑 06.07.2023](https://www.youtube.com/watch?v=4jBRO87faYw)
 - [JavaScript Tutorial for Beginners: Day 10 -- Dad Jokes](https://www.youtube.com/watch?v=q4wTFvDynGo)
 - [JavaScript Tutorial for Beginners #9 -- Sound Board](https://www.youtube.com/watch?v=-631l3aSQLs)
 - [JavaScript Tutorial for Beginners #8 -- Form Wave Animation](https://www.youtube.com/watch?v=0Ocysvy8Nwc)
 - [JavaScript Tutorial for Beginners: How To Create A Scroll Animation #Shorts](https://www.youtube.com/watch?v=76YeWtCHRm4)
-- [JavaScript Tutorial for Beginners: How to Create a Split Landing Page #Shorts](https://www.youtube.com/watch?v=PK-uozqB6ZA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/@programmingwithahsan5846)
