@@ -60,6 +60,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Your First React Component Step-by-Step Tutorial](https://javascript.plainenglish.io/building-your-first-react-component-step-by-step-tutorial-7a2ed4c04591?source=rss-164c58efef7e------2)
 - [Introduction to React JS: A Beginner’s Guide](https://medium.com/@ahsancommits/introduction-to-react-js-a-beginners-guide-b6e658f6cbee?source=rss-164c58efef7e------2)
 - [Best Practices for MERN Stack Development](https://medium.com/@ahsancommits/best-practices-for-mern-stack-development-32b0dffc3e66?source=rss-164c58efef7e------2)
 - [10 Reasons Why MongoDB is the Best NoSQL Database](https://medium.com/@ahsancommits/10-reasons-why-mongodb-is-the-best-nosql-database-17ad10e4319f?source=rss-164c58efef7e------2)
