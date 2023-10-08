@@ -6,12 +6,13 @@
 
 ## I'm a Friend, Developer, and Mentor!
 
-- 🔭 I am currently working as a [Internshala][internshala] Student Partner
-- 🌱 I’m currently learning MERN Stack 👨🏻‍💻
-- 👯 I’m looking to collaborate with other content creators
+- 🔭 I am currently working as Lead Web Developer @GDSC Sahiwal
+- 🌱 I’m currently learning T3 Stack 👨🏻‍💻
 - 🥅 2023 Goals: Contribute more to Open Source Projects
 - ⚡ Fun fact: I love blogging, coding, reading books, and googling
 - 💀 Check out the NFT collection I created: [Fancy Skull Boys](https://opensea.io/collection/fancyskullboys)
+
+[![An image of @ahsancommits's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ahsancommits)](https://holopin.io/@ahsancommits)
 
 ### Connect with me:
 
