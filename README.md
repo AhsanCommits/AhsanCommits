@@ -57,9 +57,9 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1k5KVNwas6Sil01p-ed13dSR16URQitOl/view?usp=sharing)
 
-- ⚡ Fun fact: I love traveling and attending tech events. It's a great way to gain inspiration, learn from experts, and network with tech enthusiasts.
-
 - 💀 Check out the NFT collection I created: [Fancy Skull Boys](https://opensea.io/collection/fancyskullboys)
+
+- ⚡ Fun fact: I love traveling and attending tech events. It's a great way to gain inspiration, learn from experts, and network with tech enthusiasts.
 
 <!-- Technical Skills -->
 
@@ -94,7 +94,7 @@
   </strong>
 </h2>
     
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsancommits&show_icons=true&locale=en&layout=compact" alt="ahsancommits" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsancommits&show_icons=true&locale=en" alt="ahsancommits" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahsancommits&show_icons=true&locale=en" alt="ahsancommits" /></p>
 
