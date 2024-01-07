@@ -31,8 +31,8 @@
 [![Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/17541495?color=FE7A16&label=Stack%20Overflow%20Reputation&logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users/17541495/ahsan-raza)
 [![Medium](https://img.shields.io/badge/Medium-ahsancommits-black?style=for-the-badge&logo=medium)](https://medium.com/@ahsancommits)
 [![Dev.to](https://img.shields.io/badge/Dev.to-ahsancommits-black?style=for-the-badge&logo=dev.to)](https://dev.to/ahsancommits)
-[![HackerRank](https://img.shields.io/badge/HackerRank-ahsancommits-black?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/ahsancommits)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahsancommits-black?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ahsancommits)
+[![HackerRank](https://img.shields.io/badge/HackerRank-ahsancommits-black?style=for-the-badge&logo=hackerrank&color=00EA64)](https://www.hackerrank.com/ahsancommits)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahsancommits-black?style=for-the-badge&logo=linkedin&color=1976D2)](https://linkedin.com/in/ahsancommits)
 [![GitHub followers](https://img.shields.io/github/followers/AhsanCommits?color=181717&label=Follow%20%40AhsanCommits&logo=github&style=for-the-badge)](https://github.com/ahsancommits)
 [![GitHub User's stars](https://img.shields.io/github/stars/AhsanCommits?affiliations=OWNER%2CCOLLABORATOR&color=181717&label=Star%20%40AhsanCommits&logo=github&style=for-the-badge)](https://github.com/ahsancommits)
 
