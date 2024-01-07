@@ -51,8 +51,6 @@
 
 - 📝 I regularly write articles on [https://medium.com/@ahsancommits](https://medium.com/@ahsancommits)
 
-- 💬 Ask me about HTML, CSS, JS
-
 - 🥅 2024 Goals: Contribute more to Open Source Projects
 
 - 📫 How to reach me ahsanraza00059@gmail.com
@@ -89,7 +87,7 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
----
+</br>
 
 <!-- GitHub Stats -->
 <h2 align="center"><strong>GitHub Statistics: 📈
