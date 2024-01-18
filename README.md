@@ -97,13 +97,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
 - [JavaScript Tutorial for Beginners: Day 10 -- Dad Jokes](https://www.youtube.com/watch?v=q4wTFvDynGo)
 - [JavaScript Tutorial for Beginners #9 -- Sound Board](https://www.youtube.com/watch?v=-631l3aSQLs)
 - [JavaScript Tutorial for Beginners #8 -- Form Wave Animation](https://www.youtube.com/watch?v=0Ocysvy8Nwc)
 - [JavaScript Tutorial for Beginners: How To Create A Scroll Animation #Shorts](https://www.youtube.com/watch?v=76YeWtCHRm4)
 - [JavaScript Tutorial for Beginners: How to Create a Split Landing Page #Shorts](https://www.youtube.com/watch?v=PK-uozqB6ZA)
-
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/@programmingwithahsan5846)
@@ -113,7 +111,6 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Mastering React Hooks: A Comprehensive Guide](https://javascript.plainenglish.io/mastering-react-hooks-a-comprehensive-guide-cd5aead5bef6?source=rss-164c58efef7e------2)
 - [Building Your First React Component Step-by-Step Tutorial](https://javascript.plainenglish.io/building-your-first-react-component-step-by-step-tutorial-7a2ed4c04591?source=rss-164c58efef7e------2)
 - [Introduction to React JS: A Beginner’s Guide](https://medium.com/@ahsancommits/introduction-to-react-js-a-beginners-guide-b6e658f6cbee?source=rss-164c58efef7e------2)
