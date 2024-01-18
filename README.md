@@ -23,8 +23,6 @@
 
 [![An image of @ahsancommits's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ahsancommits)](https://holopin.io/@ahsancommits)
 
-<div align="center">
-
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCthxlb0WpObljI173N-QbfA?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=ahsancommits.github.io&style=for-the-badge&url=https%3A%2F%2Fahsancommits.github.io)](https://ahsancommits.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ahsancommits?color=1DA1F2&label=Follow%20%40ahsancommits&logo=twitter&style=for-the-badge)](https://twitter.com/ahsancommits)
@@ -39,9 +37,7 @@
 
 - 🔭 I am currently working as Lead Web Developer @GDSC Sahiwal
 
-- 🌱 I’m currently learning MERN Stack
-
-- 🤝 I’m looking to collaborate on [Smart GPT](https://www.clevergpt.co/)
+- 🌱 I’m currently learning MERN Stack Development
 
 - 👨‍💻 All of my projects are available at [https://ahsancommits.github.io](https://ahsancommits.github.io/)
 
@@ -51,7 +47,7 @@
 
 - 📫 How to reach me ahsanraza00059@gmail.com
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1k5KVNwas6Sil01p-ed13dSR16URQitOl/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1yrFXNhT3ZJVAeaobMlXwTimQW3-42dS7/view?usp=sharing)
 
 - 💀 Check out the NFT collection I created: [Fancy Skull Boys](https://opensea.io/collection/fancyskullboys)
 
