@@ -80,7 +80,6 @@
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 </br>
-
 <!-- GitHub Stats -->
 <h2 align="left"><strong>GitHub Statistics: 📈
   </strong>
@@ -90,7 +89,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahsancommits&show_icons=true&locale=en" alt="ahsancommits" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahsancommits" alt="ahsancommits" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahsancommits&" alt="ahsancommits" /></p>
 
 ---
 
