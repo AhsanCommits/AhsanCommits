@@ -26,7 +26,7 @@
 <div align="center">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCthxlb0WpObljI173N-QbfA?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Website](https://img.shields.io/website?label=ahsancommits.github.io&style=for-the-badge&url=https%3A%2F%2Fahsancommits.github.io)](https://ahsancommits.github.io)
+[![Website](https://img.shields.io/website?label=ahsancommits.co&style=for-the-badge&url=https%3A%2F%2Fahsancommits.co)](https://ahsancommits.co)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ahsancommits?color=1DA1F2&label=Follow%20%40ahsancommits&logo=twitter&style=for-the-badge)](https://twitter.com/ahsancommits)
 [![Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/17541495?color=FE7A16&label=Stack%20Overflow%20Reputation&logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users/17541495/ahsan-raza)
 [![Medium](https://img.shields.io/badge/Medium-ahsancommits-black?style=for-the-badge&logo=medium)](https://medium.com/@ahsancommits)
