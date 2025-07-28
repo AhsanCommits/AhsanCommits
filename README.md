@@ -3,9 +3,6 @@
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
        width="30px">
   </h1>
-
-<!-- Quote -->
-<p align="center">A recent graduate passionate about software development and eager to contribute to innovative projects.</p>
   
   <!-- Social Network -->
 <h1 align="center">
