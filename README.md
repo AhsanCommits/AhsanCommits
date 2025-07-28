@@ -44,7 +44,7 @@
 
 - 🥅 2024 Goals: Contribute more to Open Source Projects
 
-- 📫 How to reach me ahsanraza00059@gmail.com
+- 📫 How to reach me ahsancommits@gmail.com
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1yrFXNhT3ZJVAeaobMlXwTimQW3-42dS7/view?usp=sharing)
 
