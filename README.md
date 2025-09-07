@@ -2,7 +2,7 @@
 
 # Ahsan Raza
 
-### 🚀 Full Stack Developer | React.js • Next.js • Node.js • PHP • Cloud Architecture
+### Full Stack Developer | AI Integration Expert | Building Scalable Web Apps for Tomorrow’s Tech
 
 <br/>
 
@@ -21,7 +21,7 @@
 - 💡 Specialized in integrating AI/ML technologies (OpenAI, Pinecone) to create intelligent user experiences
 - 📈 Delivered 50+ features, optimized system performance by 30%, and built platforms serving 500+ users
 - 🎯 2025 Goals: Contribute to open source projects and deepen expertise in cloud technologies
-- 📄 View my full [Resume](https://drive.google.com/file/d/1yrFXNhT3ZJVAeaobMlXwTimQW3-42dS7/view?usp=sharing)
+- 📄 View my full [Resume](https://app.rezi.ai/s/ahsan)
 
 <br/>
 
