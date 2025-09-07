@@ -1,117 +1,77 @@
-<!-- Title -->
-<h1 align="center">Hi, I'm Ahsan Raza  
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
-       width="30px">
-  </h1>
-  
-  <!-- Social Network -->
-<h1 align="center">
-<!-- <a href="https://dev.to/ahsancommits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ahsancommits" height="30" width="40" /></a> -->
-<a href="https://twitter.com/ahsancommits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahsancommits" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ahsancommits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahsancommits" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17541495" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17541495" height="30" width="40" /></a>
-<a href="https://instagram.com/ahsancommits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahsancommits" height="30" width="40" /></a>
-<a href="https://medium.com/@ahsancommits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ahsancommits" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/ucthxlb0wpoblji173n-qbfa?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucthxlb0wpoblji173n-qbfa?sub_confirmation=1" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ahsancommits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahsancommits" height="30" width="40" /></a>
-</h1>
-
-<!-- Background -->
-
-[![An image of @ahsancommits's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ahsancommits)](https://holopin.io/@ahsancommits)
-
 <div align="center">
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCthxlb0WpObljI173N-QbfA?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Website](https://img.shields.io/website?label=ahsancommits.co&style=for-the-badge&url=https%3A%2F%2Fahsancommits.co)](https://ahsancommits.co)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ahsancommits?color=1DA1F2&label=Follow%20%40ahsancommits&logo=twitter&style=for-the-badge)](https://twitter.com/ahsancommits)
-[![Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/17541495?color=FE7A16&label=Stack%20Overflow%20Reputation&logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users/17541495/ahsan-raza)
-[![Medium](https://img.shields.io/badge/Medium-ahsancommits-black?style=for-the-badge&logo=medium)](https://medium.com/@ahsancommits)
-[![Dev.to](https://img.shields.io/badge/Dev.to-ahsancommits-black?style=for-the-badge&logo=dev.to)](https://dev.to/ahsancommits)
-[![HackerRank](https://img.shields.io/badge/HackerRank-ahsancommits-black?style=for-the-badge&logo=hackerrank&color=00EA64)](https://www.hackerrank.com/ahsancommits)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahsancommits-black?style=for-the-badge&logo=linkedin&color=1976D2)](https://linkedin.com/in/ahsancommits)
-[![GitHub User's stars](https://img.shields.io/github/stars/AhsanCommits?affiliations=OWNER%2CCOLLABORATOR&color=181717&label=Star%20%40AhsanCommits&logo=github&style=for-the-badge)](https://github.com/ahsancommits)
+# Ahsan Raza
+
+### 🚀 Full Stack Developer | React.js • Next.js • Node.js • PHP • Cloud Architecture
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ahsancommits.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahsancommits) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahsancommits@gmail.com) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ahsancommits) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/ahsancommits/)
 
 </div>
 
-- 🔭 I am currently working as Lead Web Developer @GDSC Sahiwal
+<br/>
 
-- 🌱 I’m currently learning MERN Stack Development
+## 👨‍💻 About Me
 
-- 👨‍💻 All of my projects are available at [https://ahsancommits.github.io](https://ahsancommits.github.io/)
+**Full Stack Developer** with over 1 year of production experience building scalable web applications and AI-powered platforms. Expertise in React.js, Next.js, Node.js ecosystem with a proven track record of delivering high-impact features and optimizing system performance.
 
-- 📝 I regularly write articles on [https://medium.com/@ahsancommits](https://medium.com/@ahsancommits)
+- 🔭 Currently working as **Full Stack Developer at FiXiFi.Ai (Maintenance Desk)**, leading development of AI-powered property maintenance platform
+- 🚀 Experience building microservices architecture, implementing secure authentication systems, and optimizing database performance
+- 💡 Specialized in integrating AI/ML technologies (OpenAI, Pinecone) to create intelligent user experiences
+- 📈 Delivered 50+ features, optimized system performance by 30%, and built platforms serving 500+ users
+- 🎯 2025 Goals: Contribute to open source projects and deepen expertise in cloud technologies
+- 📄 View my full [Resume](https://drive.google.com/file/d/1yrFXNhT3ZJVAeaobMlXwTimQW3-42dS7/view?usp=sharing)
 
-- 🥅 2024 Goals: Contribute more to Open Source Projects
+<br/>
 
-- 📫 How to reach me ahsancommits@gmail.com
+<h2 align="left">💻 Technical Skills</h2>
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1yrFXNhT3ZJVAeaobMlXwTimQW3-42dS7/view?usp=sharing)
+### 🎨 Frontend:
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/) [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/) [![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/) [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) [![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/) [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
-- 💀 Check out the NFT collection I created: [Fancy Skull Boys](https://opensea.io/collection/fancyskullboys)
+### ⚙️ Backend:
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/) [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com/) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net/)
 
-- ⚡ Fun fact: I love traveling and attending tech events. It's a great way to gain inspiration, learn from experts, and network with tech enthusiasts.
+### 🗄️ Databases:
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/) [![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)](https://neo4j.com/)
 
-<!-- Technical Skills -->
+### ☁️ Cloud & DevOps:
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/) [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions) [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
-<h2 align="left"><strong>Languages and Tools: 💻</strong></h2>
-<p align="center"> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 🤖 AI/ML:
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 
-### 📺 Latest YouTube Videos
+### 🛠️ Tools:
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/) [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com/) [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](https://www.atlassian.com/software/jira) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
-<!-- YOUTUBE:START -->
-- [JavaScript Tutorial for Beginners: Day 10 -- Dad Jokes](https://www.youtube.com/watch?v=q4wTFvDynGo)
-- [JavaScript Tutorial for Beginners #9 -- Sound Board](https://www.youtube.com/watch?v=-631l3aSQLs)
-- [JavaScript Tutorial for Beginners #8 -- Form Wave Animation](https://www.youtube.com/watch?v=0Ocysvy8Nwc)
-- [JavaScript Tutorial for Beginners: How To Create A Scroll Animation #Shorts](https://www.youtube.com/shorts/76YeWtCHRm4)
-- [JavaScript Tutorial for Beginners: How to Create a Split Landing Page #Shorts](https://www.youtube.com/shorts/PK-uozqB6ZA)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/@programmingwithahsan5846)
+<br/>
 
 ---
 
-### 📕 Latest Blog Posts
+<h2 align="left">📈 GitHub Statistics</h2>
 
-<!-- BLOG-POST-LIST:START -->
-- [Mastering React Hooks: A Comprehensive Guide](https://javascript.plainenglish.io/mastering-react-hooks-a-comprehensive-guide-cd5aead5bef6?source=rss-164c58efef7e------2)
-- [Building Your First React Component Step-by-Step Tutorial](https://javascript.plainenglish.io/building-your-first-react-component-step-by-step-tutorial-7a2ed4c04591?source=rss-164c58efef7e------2)
-- [Introduction to React JS: A Beginner’s Guide](https://medium.com/@ahsancommits/introduction-to-react-js-a-beginners-guide-b6e658f6cbee?source=rss-164c58efef7e------2)
-- [Best Practices for MERN Stack Development](https://medium.com/@ahsancommits/best-practices-for-mern-stack-development-32b0dffc3e66?source=rss-164c58efef7e------2)
-- [10 Reasons Why MongoDB is the Best NoSQL Database](https://medium.com/@ahsancommits/10-reasons-why-mongodb-is-the-best-nosql-database-17ad10e4319f?source=rss-164c58efef7e------2)
-<!-- BLOG-POST-LIST:END -->
+<div align="center">
 
-➡️ [more blog posts...](https://www.linkedin.com/newsletters/7048174900578066432/)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahsancommits&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsancommits&layout=compact&langs_count=8&theme=radical&count_private=true&include_all_commits=true&hide_border=true"/>
 
-<!-- GitHub Stats -->
-<h2 align="left"><strong>GitHub Statistics: 📈
-  </strong>
-</h2>
-    
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsancommits&show_icons=true&locale=en" alt="ahsancommits" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahsancommits&show_icons=true&locale=en" alt="ahsancommits" /></p>
+<div align="center">
 
-[jsplaylist]: https://www.youtube.com/playlist?list=PLYshsQG2r6mQXxD0DUAaWkT_FrV7PSIGw
-[youtube]: https://www.youtube.com/channel/UCthxlb0WpObljI173N-QbfA?sub_confirmation=1
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahsancommits&theme=radical)](https://git.io/streak-stats)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+---
+
+**"Building scalable solutions, one commit at a time"** 💻✨
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ahsancommits&color=blueviolet&style=flat-square)
+
+</div>
