@@ -2,7 +2,7 @@
 
 # Ahsan Raza
 
-### Senior Full Stack Engineer | AI Integration Expert | Building Scalable Solutions for 12,000+ Users
+### Lead Engineer · Full-Stack (React · Next.js · Node · TypeScript) · AI Integration
 
 <br/>
 
@@ -14,14 +14,14 @@
 
 ## 👨‍💻 About Me
 
-**Senior Full Stack Engineer** with **5+ years of comprehensive experience** building scalable web applications and AI-powered platforms serving **thousands of enterprise users**. Expert in React.js, Next.js, TypeScript, Supabase ecosystem with a proven track record of delivering high-impact features and optimizing system performance.
+**Lead Engineer** with **5+ years of experience** building scalable web applications and AI-powered platforms for international clients. Work mainly in React.js, Next.js, TypeScript, and Node, shipping AI features (OpenAI, RLHF, data pipelines) into production. I use AI coding assistants (Claude, Cursor) as a daily force multiplier while owning the testing, architecture, and code review the model can't.
 
-- 🔭 Currently working as **Senior Full Stack Developer at FiXiFi.Ai (Maintenance Desk)**, leading engineering for AI-powered property maintenance platform serving **12,000+ letting agents and landlords**
-- 🚀 **5+ years experience** building microservices architecture, implementing secure authentication systems, and optimizing database performance by **30%**
-- 💡 Specialized in integrating AI/ML technologies (OpenAI, Pinecone) with **real-time processing** serving **thousands of users**
-- 📈 Delivered **500+ production features**, architected **scalable solutions**, and **international client management** across 3 continents
-- 🌍 **Remote work expert** with **4+ years international freelance experience** and proven cross-cultural communication
-- 🎯 2025 Goals: Senior engineering roles, contributing to open source projects, and building innovative tech solutions
+- 🔭 Currently **Lead Engineer at FiXiFi.Ai (Maintenance Desk)**, leading engineering for an AI-powered property maintenance platform serving **12,000+ letting agents and landlords**
+- 🚀 **5+ years experience** building microservices architecture, secure authentication systems, and optimizing database and API performance
+- 💡 Specialized in integrating AI/ML technologies (OpenAI, Pinecone) with **real-time processing** in production
+- 📈 **End-to-end ownership** of production systems, from architecture to deployment, for international clients across 3 continents
+- 🌍 **Remote work expert** with **5+ years** working with global clients and proven cross-cultural communication
+- 🎯 Goals: senior/lead engineering roles, contributing to open source, and building AI-enabled products
 - 📄 View my [Professional Resume](https://drive.google.com/file/d/1QM91vKrhGhI3MtjzfTEbN0ArlQS3YWde/view)
 
 <br/>
@@ -51,31 +51,31 @@
 ## 🏆 Professional Achievements
 
 ### 🚀 Current Role Impact
-- **Leading engineering** for AI-powered property maintenance platform at **FiXiFi.Ai**
-- **Serving 12,000+ letting agents and landlords** across UK market
+- **Leading engineering** for an AI-powered property maintenance platform at **FiXiFi.Ai**
+- **Serving 12,000+ letting agents and landlords** across the UK market
 - **Architected microservices** reducing deployment time by **60%**
-- **Optimized system performance by 30%** with database and API improvements
+- **Cut API response times from 800ms to 200ms** by fixing performance bottlenecks
 - **Implemented OWASP Top 10 security standards**, resolving 12 critical vulnerabilities
 
 ### 🌍 International Experience
-- **4+ years remote work** with clients across **North America, Europe, and Asia**
-- **Cross-cultural communication** expertise with **4.8/5 client satisfaction rating**
+- **5+ years remote work** with clients across **North America, Europe, and Asia**
+- **Cross-cultural communication** across multiple time zones
 - **Managed full-stack projects** from requirement analysis to deployment
-- **Proven track record** of delivering projects on time and under budget
+- **Ownership mentality**, shipping fast without breaking trust
 
 ### 📊 Technical Leadership
-- **500+ production features** delivered across multiple platforms
+- **End-to-end delivery** of production features across multiple platforms
 - **AI integration specialist** with OpenAI and Pinecone implementations
-- **Database optimization** expert (PostgreSQL, Supabase, MongoDB)
-- **CI/CD pipeline** architect with automated deployment solutions
-- **Security-first approach** with comprehensive testing (99% code coverage)
+- **Database optimization** (PostgreSQL, Supabase, MongoDB)
+- **CI/CD pipeline** architect with automated deployment
+- **Security-first approach** with automated testing and CI/CD
 
 ### 📈 Featured Projects
 
 | Project | Technology | Impact | Role |
 |---------|------------|--------|---------|
 | **Holmz** - AI Investor Discovery | Next.js, PostgreSQL, AI APIs | 280K+ investor database, 1.9M+ startups | Full Stack Lead |
-| **MePrism** - Data Privacy Platform | FastAPI, AWS Lambda, Python | 600+ sites, 95% success rate | Backend Architect |
+| **MePrism** - Data Privacy Platform | FastAPI, AWS Lambda, Python | 600+ sites, automated data removal | Backend Architect |
 | **Learnify Hub** - LMS Platform | Next.js, TypeScript, MongoDB | 3000+ active users | Full Stack Developer |
 
 <br/>
@@ -103,7 +103,7 @@
 
 ## 📞 Let's Connect
 
-**Open to senior full stack engineering opportunities and exciting tech challenges**
+**Open to senior/lead full-stack and applied-AI roles — remote**
 
 📧 **Email:** ahsancommits@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/ahsancommits](https://linkedin.com/in/ahsancommits)  
