@@ -22,7 +22,6 @@
 - 📈 **End-to-end ownership** of production systems, from architecture to deployment, for international clients across 3 continents
 - 🌍 **Remote work expert** with **5+ years** working with global clients and proven cross-cultural communication
 - 🎯 Goals: senior/lead engineering roles, contributing to open source, and building AI-enabled products
-- 📄 View my [Professional Resume](https://drive.google.com/file/d/1QM91vKrhGhI3MtjzfTEbN0ArlQS3YWde/view)
 
 <br/>
 
@@ -108,7 +107,6 @@
 📧 **Email:** ahsancommits@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/ahsancommits](https://linkedin.com/in/ahsancommits)  
 🌐 **Portfolio:** [ahsancommits.vercel.app](https://ahsancommits.vercel.app)  
-📄 **Resume:** [Professional Resume](https://drive.google.com/file/d/1QM91vKrhGhI3MtjzfTEbN0ArlQS3YWde/view)
 
 <div align="center">
 
