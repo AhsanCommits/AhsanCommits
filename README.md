@@ -73,9 +73,9 @@
 
 | Project | Technology | Impact | Role |
 |---------|------------|--------|---------|
-| **Holmz** - AI Investor Discovery | Next.js, PostgreSQL, AI APIs | 280K+ investor database, 1.9M+ startups | Full Stack Lead |
-| **MePrism** - Data Privacy Platform | FastAPI, AWS Lambda, Python | 600+ sites, automated data removal | Backend Architect |
-| **Learnify Hub** - LMS Platform | Next.js, TypeScript, MongoDB | 3000+ active users | Full Stack Developer |
+| **Loudship** - AI LinkedIn post generator | Next.js, TypeScript, LLMs | Turns your shipped GitHub work into post drafts, bring-your-own key | Creator |
+| **Quick News AI** - RSS news summarizer | Falcon LLM, Python | Concise summaries from news feeds | Creator |
+| **Learnify Hub** - LMS Platform | Next.js, TypeScript, MongoDB | 3000+ active users | Creator (final-year project) |
 
 <br/>
 
